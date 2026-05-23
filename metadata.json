@@ -1,0 +1,6 @@
+{
+  "name": "SPOR REHBERİ",
+  "description": "İstanbul genelindeki spor alanlarını, çalışma saatlerini ve özellikleri içeren interaktif bir spor haritası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
